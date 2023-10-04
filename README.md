@@ -1,5 +1,5 @@
 - if (sad == true){
--   be.awsome
+-   Be.Awsome()
 - }
 <!--
 **CODERroot289/coderroot289** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
