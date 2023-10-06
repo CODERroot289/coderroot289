@@ -4,7 +4,8 @@
 >- }
 >>----------------------
 
-	
+
+https://media.tenor.com/6TDIGb9hyCMAAAAC/bully-maguire-rick-astley.gif
 
 <!--
 **CODERroot289/coderroot289** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
