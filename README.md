@@ -1,16 +1,13 @@
->>-----------------------
+9*->>-----------------------
 >- if (sad == true){
 >- Be.Awesome()
 >- }
 >>----------------------
 
 
-
->-
->-
+<!--
 ![bully-maguire-rick-astley](https://github.com/CODERroot289/coderroot289/assets/140509825/4bc8acdc-30f3-46d9-9898-1294540cf802)
->
->-  
+-->  
 
 <!--
 **CODERroot289/coderroot289** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
